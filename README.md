@@ -4,7 +4,7 @@
 
 Stochastic simulation of actin filament network growth using the Gillespie algorithm. Models the competition between filament elongation and branching as a network navigates toward a target, with the broader goal of understanding whether real cells operate at or near optimal efficiency.
 
-📊 [View final presentation](https://drive.google.com/file/d/1ivEPkW1X1apozp85oPecxz45zT0x3PYy/view?usp=sharing) *(link to your actual presentation)*
+📊 [View final presentation](https://drive.google.com/file/d/1ivEPkW1X1apozp85oPecxz45zT0x3PYy/view?usp=sharing)
 
 ---
 
