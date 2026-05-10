@@ -97,4 +97,4 @@ When the target radius is varied, the optimal rate combination changes:
 ---
 
 ## Acknowledgements
-Research conducted as part of the [MathBioU REU](https://mathbiou.bio.uci.edu/) at UC Irvine, Summer 2023.
+Research conducted as part of the [MathBioU REU](https://cellfate.uci.edu/mathbiou-math-explr-2023/) at UC Irvine, Summer 2023.
